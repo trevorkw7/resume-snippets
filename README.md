@@ -111,3 +111,17 @@ Curriculum Developer and Programming Instructor
 • Technologies Used: Java, Python
 ```
 
+<hr/>
+
+```
+https://www.linkedin.com/in/trevor-kwan/
+```
+
+```
+https://github.com/trevorkw7
+```
+
+```
+https://devpost.com/trevorkw7
+```
+
