@@ -58,7 +58,7 @@ Founder and Full Stack Developer
 • Created a React.js based PDF generation tool to automate the printing of over 1000 notes for physical delivery.
 • Developed a user friendly and hyper-responsive frontend using React.js, MUI, and Netlify that handled 800+ users.
 • Founded a 501(c) non-profit organization and led a team of 5 students after solo-building the initial website to manage a database of user-written notes and raised awareness through social media.
-• Technologies Used: React.js, TypeScript, Redux, LESS
+• Technologies Used: React.js, Javascript, Firebase, Node.js, Figma
 ```
 
 <hr/>
